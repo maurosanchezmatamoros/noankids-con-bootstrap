@@ -1,0 +1,22 @@
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none !important;
+    box-sizing: border-box;
+}
+
+.font-architects {
+    font-family: 'Architects Daughter', cursive;
+}
+
+.font-cabin {
+    font-family: 'Cabin Sketch', cursive;
+}
+
+section > .card {
+    width: 18rem !important;
+}
+
+.mh-18rem {
+    max-height: 18rem;
+}
